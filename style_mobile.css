@@ -1,0 +1,10 @@
+@media(max-width:400px) {
+    .tab {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+
+    
+}

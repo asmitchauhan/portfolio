@@ -1,0 +1,9 @@
+@media(max-width:800px) {
+    .tab {
+        display: block;
+    }
+
+    .pc {
+        display: none;
+    }
+}
